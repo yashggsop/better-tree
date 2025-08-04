@@ -1,0 +1,18 @@
+{
+  "name": "@ruskydev/better-tree",
+  "version": "1.0.0",
+  "type": "module",
+  "license": "MIT",
+  "bin": {
+    "better-tree": "./bin/better-tree.min.js"
+  },
+  "scripts": {
+    "build": "npm run test && node ./scripts/build.js",
+    "test": "vitest run tests",
+    "prepare": "npm run build"
+  },
+  "devDependencies": {
+    "esbuild": "^0.23.0",
+    "vitest": "^1.6.0"
+  }
+}
