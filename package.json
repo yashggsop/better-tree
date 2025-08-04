@@ -37,8 +37,7 @@
     "file-structure",
     "recursive-list",
     "file-tree",
-    "dir-tree",
-    "node-modules"
+    "dir-tree"
   ],
   "devDependencies": {
     "esbuild": "^0.23.0",
