@@ -19,6 +19,27 @@
     "url": "https://github.com/ruskydev/better-tree/issues"
   },
   "homepage": "https://github.com/ruskydev/better-tree#readme",
+  "keywords": [
+    "tree",
+    "better-tree",
+    "directory",
+    "directory-tree",
+    "folder",
+    "folder-tree",
+    "cli",
+    "file-system",
+    "filesystem",
+    "fs",
+    "terminal",
+    "console",
+    "command-line",
+    "node-cli",
+    "file-structure",
+    "recursive-list",
+    "file-tree",
+    "dir-tree",
+    "node-modules"
+  ],
   "devDependencies": {
     "esbuild": "^0.23.0",
     "vitest": "^1.6.0"
