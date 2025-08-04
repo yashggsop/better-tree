@@ -11,6 +11,14 @@
     "test": "vitest run tests",
     "prepare": "npm run build"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruskydev/better-tree.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ruskydev/better-tree/issues"
+  },
+  "homepage": "https://github.com/ruskydev/better-tree#readme",
   "devDependencies": {
     "esbuild": "^0.23.0",
     "vitest": "^1.6.0"
