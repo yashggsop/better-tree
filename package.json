@@ -1,10 +1,10 @@
 {
   "name": "@ruskydev/better-tree",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "type": "module",
   "license": "MIT",
   "bin": {
-    "better-tree": "./bin/better-tree.min.js"
+    "better-tree": "node ./bin/better-tree.min.js"
   },
   "scripts": {
     "build": "npm run test && node ./scripts/build.js",
